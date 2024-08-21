@@ -1,0 +1,8 @@
+Guinnes Original:5.0:47:n:true:Diageo S.A
+Heineken:4.0:50:r:false:Heineken International S.L.
+Ayinger Urweisse:5.3:71:R:true:Ayinger S.A
+Guinnes West Indies Porter:5.0:7:n:true:Diageo S.A
+Alhambra Red Ale:3.5:200:R:true:Cervezas Alhambra S.A
+Alhambra Especial:3.7:150:r:false:Cervezas Alhambra S.A
+Alhambra 1925:5.5:200:r:true:Cervezas Alhambra S.A
+La Cibeles Castana:6.0:60:t:true:Cibeles S.A
